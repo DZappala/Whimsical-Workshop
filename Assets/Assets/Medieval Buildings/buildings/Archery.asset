@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e325fd9eaee42fa9744b41272aad417, type: 3}
+  m_Name: Archery
+  m_EditorClassIdentifier: 
+  name: Fletchery
+  assetReference: {fileID: 919132149155446097, guid: 42147d6449dae454da57bc326e3d6416, type: 3}
+  iconReference: {fileID: 21300000, guid: 26a87f42d1dab8d4386bdd296af81f90, type: 3}

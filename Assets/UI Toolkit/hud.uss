@@ -1,0 +1,13 @@
+#ConstructionRadioButton .unity-radio-button__checkmark-background {
+    opacity: 0;
+}
+
+#ConstructionRadioButton {
+    width: 100px;
+    height: 100px;
+}
+
+.buttonHighlighted {
+    border-color: gold;
+    border-width: 2px;
+}
