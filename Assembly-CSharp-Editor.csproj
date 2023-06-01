@@ -48,7 +48,6 @@
      <Compile Include="Assets\MapMagic\Compatibility\CTS\Editor\CTSEditor.cs" />
      <Compile Include="Assets\MapMagic\Compatibility\MegaSplat\Editor\MegaSplatEditor.cs" />
      <Compile Include="Assets\MapMagic\Compatibility\RTP\Editor\RTPEditor.cs" />
-     <Folder Include="Assets\Editor" />
      <Folder Include="Assets\MapMagic\Compatibility\CTS\Editor" />
      <Folder Include="Assets\MapMagic\Compatibility\MegaSplat\Editor" />
      <Folder Include="Assets\MapMagic\Compatibility\RTP\Editor" />
